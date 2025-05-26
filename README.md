@@ -54,7 +54,7 @@ Welcome to my DevOps exploration! This project chronicles my hands-on experience
 
 ### GitHub Actions Workflow
 
-![GitHub Actions Workflow](screenshots/github-actions.png)
+![GitHub Actions Workflow](https://github.com/InfoSec01/webapp-deployment/blob/main/screenshots%20github-actions.png)
 
 ### Docker Containerization
 
